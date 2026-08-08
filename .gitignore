@@ -1,0 +1,30 @@
+# Environment variables & API keys (CRITICAL FOR PRIVACY)
+.env
+.env.*
+!.env.example
+
+# Virtual Environments
+.venv/
+.venv313/
+venv/
+ENV/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Databases & local user data
+*.db
+*.sqlite
+*.sqlite3
+ai_interview_coach.db
+uploads/
+
+# IDE & OS settings
+.DS_Store
+.vscode/
+.idea/
+*.swp

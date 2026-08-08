@@ -1,0 +1,216 @@
+{
+  "cand_test_e2e": {
+    "candidate_id": "cand_test_e2e",
+    "name": "Default Candidate",
+    "email": null,
+    "target_role": "AI Engineer",
+    "target_companies": [
+      "Google",
+      "OpenAI",
+      "Meta"
+    ],
+    "years_experience": 0.0,
+    "skills": [],
+    "projects": [],
+    "experiences": [],
+    "education": [],
+    "certifications": [],
+    "weaknesses": [
+      "OOP",
+      "System Design"
+    ],
+    "strengths": [
+      "Python",
+      "SQL"
+    ],
+    "ats_score": 0.0,
+    "overall_readiness_score": 0.0,
+    "technical_skill_score": 0.0,
+    "coding_score": 0.0,
+    "communication_score": 0.0,
+    "created_at": "2026-08-08T14:05:34.559240Z",
+    "updated_at": "2026-08-08T14:05:34.559241Z"
+  },
+  "cand_test_memory": {
+    "candidate_id": "cand_test_memory",
+    "name": "Test User",
+    "email": null,
+    "target_role": "AI Engineer",
+    "target_companies": [
+      "Google"
+    ],
+    "years_experience": 0.0,
+    "skills": [],
+    "projects": [],
+    "experiences": [],
+    "education": [],
+    "certifications": [],
+    "weaknesses": [
+      "System Design"
+    ],
+    "strengths": [],
+    "ats_score": 0.0,
+    "overall_readiness_score": 0.0,
+    "technical_skill_score": 0.0,
+    "coding_score": 0.0,
+    "communication_score": 0.0,
+    "created_at": "2026-08-08T15:30:20.910239Z",
+    "updated_at": "2026-08-08T15:30:20.910241Z"
+  },
+  "cand_api_test": {
+    "candidate_id": "cand_api_test",
+    "name": "Default Candidate",
+    "email": null,
+    "target_role": "AI Engineer",
+    "target_companies": [
+      "Google",
+      "OpenAI",
+      "Meta"
+    ],
+    "years_experience": 0.0,
+    "skills": [],
+    "projects": [],
+    "experiences": [],
+    "education": [],
+    "certifications": [],
+    "weaknesses": [
+      "OOP",
+      "System Design"
+    ],
+    "strengths": [
+      "Python",
+      "SQL"
+    ],
+    "ats_score": 0.0,
+    "overall_readiness_score": 0.0,
+    "technical_skill_score": 0.0,
+    "coding_score": 0.0,
+    "communication_score": 0.0,
+    "created_at": "2026-08-08T14:05:35.181584Z",
+    "updated_at": "2026-08-08T14:05:35.181584Z"
+  },
+  "cand_default": {
+    "candidate_id": "cand_default",
+    "name": "Alex Smith",
+    "email": null,
+    "target_role": "AI Engineer",
+    "target_companies": [
+      "Google",
+      "OpenAI",
+      "Meta"
+    ],
+    "years_experience": 0.0,
+    "skills": [
+      {
+        "name": "Python Core",
+        "category": "general",
+        "proficiency": 0.85,
+        "verified": true,
+        "notes": null
+      },
+      {
+        "name": "SQL Aggregations",
+        "category": "general",
+        "proficiency": 0.85,
+        "verified": true,
+        "notes": null
+      },
+      {
+        "name": "FastAPI Microservices",
+        "category": "general",
+        "proficiency": 0.85,
+        "verified": true,
+        "notes": null
+      },
+      {
+        "name": "RAG & Vector Search",
+        "category": "general",
+        "proficiency": 0.85,
+        "verified": true,
+        "notes": null
+      }
+    ],
+    "projects": [],
+    "experiences": [],
+    "education": [],
+    "certifications": [],
+    "weaknesses": [
+      "Python OOP Architecture",
+      "Decorators & Generators",
+      "Dynamic Programming",
+      "System Design Indexing"
+    ],
+    "strengths": [],
+    "ats_score": 85.0,
+    "overall_readiness_score": 86.5,
+    "technical_skill_score": 0.0,
+    "coding_score": 0.0,
+    "communication_score": 0.0,
+    "created_at": "2026-08-08T14:47:47.830001Z",
+    "updated_at": "2026-08-08T14:47:47.830007Z"
+  },
+  "student_default": {
+    "candidate_id": "student_default",
+    "name": "Default Candidate",
+    "email": null,
+    "target_role": "AI Engineer",
+    "target_companies": [
+      "Google",
+      "OpenAI",
+      "Meta"
+    ],
+    "years_experience": 0.0,
+    "skills": [],
+    "projects": [],
+    "experiences": [],
+    "education": [],
+    "certifications": [],
+    "weaknesses": [
+      "OOP",
+      "System Design"
+    ],
+    "strengths": [
+      "Python",
+      "SQL"
+    ],
+    "ats_score": 0.0,
+    "overall_readiness_score": 0.0,
+    "technical_skill_score": 0.0,
+    "coding_score": 0.0,
+    "communication_score": 0.0,
+    "created_at": "2026-08-08T14:53:42.570469Z",
+    "updated_at": "2026-08-08T14:53:42.570470Z"
+  },
+  "test_student": {
+    "candidate_id": "test_student",
+    "name": "Default Candidate",
+    "email": null,
+    "target_role": "AI Engineer",
+    "target_companies": [
+      "Google",
+      "OpenAI",
+      "Meta"
+    ],
+    "years_experience": 0.0,
+    "skills": [],
+    "projects": [],
+    "experiences": [],
+    "education": [],
+    "certifications": [],
+    "weaknesses": [
+      "OOP",
+      "System Design"
+    ],
+    "strengths": [
+      "Python",
+      "SQL"
+    ],
+    "ats_score": 0.0,
+    "overall_readiness_score": 0.0,
+    "technical_skill_score": 0.0,
+    "coding_score": 0.0,
+    "communication_score": 0.0,
+    "created_at": "2026-08-08T14:56:47.335951Z",
+    "updated_at": "2026-08-08T14:56:47.335952Z"
+  }
+}
